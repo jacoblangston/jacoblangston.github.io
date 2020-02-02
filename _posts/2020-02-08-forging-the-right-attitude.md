@@ -7,7 +7,7 @@ I am a bladesmith in my spare time. I started by going to a hammer-in at Coopers
 of two days. I received about two-hours of hands on experience at the end where I forged the blade. It took several more weeks to finish it. The knife was terrible, as depicted below. There is no plunge line. There is no bevel. There are visible gaps. It's 
 too thick. It was not heat treated properly. That being said, I love that knife. It is the first one I made. It is functional. It is tangible. It shows what I could make at the time. 
 
-![_config.yml]({{ site.baseurl }}/images/first-knife.jpg)
+![first-knife.jpg]({{ site.baseurl }}/images/first-knife.jpg)
 
 When I finished it, I showed it to one of the bladesmiths that helped me over Instagram. His response was "We all start somewhere". A little curt, but he said a lot in the statement. It made me realize 
 while it was a great personal achievement, there was a lot to learn still.
