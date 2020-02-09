@@ -1,5 +1,5 @@
 ---
-published: false
+layout: post
 title: Forging the Right Attitude
 ---
 
